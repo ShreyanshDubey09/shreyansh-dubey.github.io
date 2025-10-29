@@ -24,7 +24,7 @@ I'm Shreyansh Dubey, a results-driven Data Analyst with 1+ years of experience t
 
 1. **HR Analytics Dashboard** - Interactive Power BI dashboard analyzing 1400+ employee records
 2. **Fraud Detection System** - ML pipeline processing 40K+ transactions with 94% precision
-3. **Marketing ROI Analysis** - Customer segmentation achieving 23% higher CTR
+3. **InsightX-Marketing-Analytics** - 55K+ transactions | 23% CTR boost | 9000%+ ROI | RFM + K-Means clustering
 4. **Restaurant Market Analysis** - SQL analysis of 12K+ restaurants with strategic recommendations
 5. **Biometric Recognition System** - B.Tech project with 92% accuracy in face recognition
 
